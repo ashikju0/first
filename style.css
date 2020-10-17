@@ -222,7 +222,8 @@ margin-left:5%;
 .footer ul li a{
 	text-decoration:none;
    border-radius:15px;
- background:red;
+ background:gray;
+color:white;
 }
 a{
 	position: relative;
